@@ -1,0 +1,176 @@
+	City	Borough	Neighbourhood	Latitude	Longitude
+0	London	Westminster / Camden	Covent Garden / Charing Cross / Aldwych / St Giles	51.51651000000004	-0.11967999999995982
+1	London	Camden / Camden and Islington	Bloomsbury / Holborn / St Pancras / King's Cross	51.524500000000046	-0.12272999999993317
+2	London	Westminster	Maida Vale / Little Venice	51.525870000000054	-0.19525999999996202
+3	London	Kensington and Chelsea	Holland Park	51.50162000000006	-0.19172999999995
+4	London	Ealing	Hanwell	51.50878000000006	-0.3362999999999374
+5	London	Hammersmith and Fulham	Hammersmith	51.49617000000006	-0.22934999999995398
+6	London	Ealing	Ealing	51.51406000000003	-0.30072999999993044
+7	London	Hounslow / Hounslow, Ealing, Hammersmith and Fulham / Ealing	Gunnersbury / Grove Park / Chiswick / Bedford Park	51.48944000000006	-0.26193999999992457
+8	London	Ealing, Hammersmith and Fulham	Acton	51.51324000000005	-0.2674599999999714
+9	London	Westminster	Bayswater / Paddington	51.51494000000008	-0.1804799999999318
+10	London	Hammersmith and Fulham	West Kensington	51.49568000000005	-0.2099299999999289
+11	London	Ealing	West Ealing	51.514530000000036	-0.31950999999997975
+12	London	Hammersmith and Fulham	Shepherd's Bush / White City / Wormwood Scrubs	51.50645000000003	-0.2369099999999662
+13	London	Kensington and Chelsea	Notting Hill	51.512440000000026	-0.20638999999994212
+14	London	Kensington and Chelsea	North Kensington	51.52346000000006	-0.21352999999993472
+15	London	Westminster / Camden	Mayfair / Chinatown / Marylebone (also St Marylebone) / Soho / Fitzrovia	51.51656000000003	-0.14769999999992933
+16	London	Lambeth / Wandsworth	Oval / Stockwell / Vauxhall / Nine Elms	51.476230000000044	-0.13055999999994583
+17	London	Kensington and Chelsea	South Kensington / Kensington	51.49807000000004	-0.17403999999993403
+18	London	Hammersmith and Fulham	Parsons Green / Fulham / Sands End	51.47772000000003	-0.2014499999999657
+19	London	Kensington and Chelsea	Earls Court	51.49004000000008	-0.1897099999999341
+20	London	Lambeth, Wandsworth	Clapham	51.46095000000008	-0.13921999999996615
+21	London	Kensington and ChelseaHammersmith and Fulham / Kensington and Chelsea	Brompton / Chelsea	51.49014000000005	-0.16247999999995955
+22	London	Merton	Raynes Park	51.41117000000003	-0.22622999999993
+23	London	Lambeth	Brixton	51.452950000000044	-0.12082999999995536
+24	London	Merton	South Wimbledon / Colliers Wood / Wimbledon / Merton Park	51.421700000000044	-0.2079599999999573
+25	London	Wandsworth	Southfields / Earlsfield / Wandsworth	51.45066000000003	-0.18996999999995978
+26	London	Wandsworth	Tooting / Tooting Bec	51.43037000000004	-0.1655799999999772
+27	London	Croydon / Lambeth	Norbury / Streatham	51.41870000000006	-0.12752999999997883
+28	London	Kingston upon Thames / Wandsworth	Kingston Vale / Roehampton / Putney	51.457550000000026	-0.21844999999996162
+29	London	Richmond upon Thames	Mortlake / East Sheen	51.46482000000003	-0.26590999999996257
+30	London	Richmond upon Thames	Barnes / Castelnau	51.47457000000003	-0.24211999999994305
+31	London	Wandsworth	Balham	51.44822000000005	-0.1483899999999494
+32	London	Wandsworth	Battersea	51.46760000000006	-0.16289999999997917
+33	London	Kensington and Chelsea	West Brompton	51.48563000000007	-0.1814399999999523
+34	London	Westminster	Belgravia / Millbank / St James's / Pimlico / Knightsbridge / Westminster	51.49714000000006	-0.13828999999992675
+35	London	Greenwich / Bromley / Bexley, Greenwich / Bexley	New Eltham / Eltham / Middle Park / Well Hall / Mottingham / Falconwood / Longlands	51.444630000000075	0.05212000000005901
+36	London	Lewisham	Deptford	51.48114000000004	-0.02466999999995778
+37	London	Greenwich	Charlton	51.48759000000007	0.02912000000003445
+38	London	Lewisham	Bellingham / Catford / Southend	51.43722000000008	-0.018679999999960728
+39	London	Southwark	Camberwell / Denmark Hill	51.47480000000007	-0.09312999999997373
+40	London	Lewisham	Brockley / Ladywell / Crofton Park / St Johns	51.462680000000034	-0.035579999999924894
+41	London	Greenwich / Lewisham	Westcombe Park / Blackheath Royal Standard / Kidbrooke / Blackheath	51.47138000000007	0.023380000000031487
+42	London	Bexley, Greenwich	Thamesmead	51.50527000000005	0.12013000000007423
+43	London	Lambeth	West Norwood	51.43407000000008	-0.10374999999993406
+44	London	Lewisham, Bromley	Sydenham (also Lower Sydenham, Upper Sydenham)	51.42674000000005	-0.05532999999996946
+45	London	Croydon	Selhurst / South Norwood	51.39925000000005	-0.07413999999994303
+46	London	Lambeth	Herne Hill / Tulse Hill	51.45529000000005	-0.09927999999996473
+47	London	Lewisham	Forest Hill / Honor Oak	51.441220000000044	-0.047639999999944393
+48	London	Southwark	East Dulwich	51.45256000000006	-0.0707599999999502
+49	London	Southwark / Lewisham, Southwark	Dulwich / Sydenham Hill	51.44100000000003	-0.08896999999996069
+50	London	Bromley	Anerley / Penge	51.41009000000008	-0.05682999999993399
+51	London	Bexley / Bexley,  Greenwich 	Crossness / West Heath / Abbey Wood	51.492450000000076	0.12127000000003818
+52	London	Lambeth / Bromley / Croydon	Gipsy Hill / Crystal Palace / Upper Norwood	51.41990000000004	-0.08807999999993399
+53	London	Greenwich	Woolwich / Plumstead / Shooter's Hill	51.48207000000008	0.07143000000002075
+54	London	Southwark	Walworth	51.487640000000056	-0.09541999999993322
+55	London	Southwark	Rotherhithe / Surrey Quays	51.49574000000007	-0.051569999999969696
+56	London	Southwark	Nunhead / Peckham	51.47218000000004	-0.0677899999999454
+57	London	Lewisham	New Cross	51.47489000000007	-0.04037999999997055
+58	London	Lewisham	Hither Green / Lewisham	51.46196000000003	-0.007539999999949032
+59	London	Lewisham / Greenwich, Lewisham	Grove Park / Lee / Chinbrook / Horn Park	51.44759000000005	0.013500000000021828
+60	London	Lambeth, Southwark	Kennington	51.49084000000005	-0.11107999999995855
+61	London	Greenwich	Greenwich / Maze Hill	51.48454000000004	0.002750000000048658
+62	London	Southwark / Lambeth	Bermondsey / Elephant and Castle / Newington / Bankside / Lambeth	51.499960000000044	-0.09567999999995891
+63	London	Barnet / Brent	Grahame Park / The Hyde / West Hendon / Colindale / Kingsbury	51.58486000000005	-0.24880999999993492
+64	London	Westminster	Lisson Grove / St John's Wood	51.53398000000004	-0.17377999999996518
+65	London	Barnet	Barnet Gate / Mill Hill / The Hale	51.615680000000054	-0.2451099999999542
+66	London	Brent / Camden / Brent, Camden	Brondesbury / Queen's Park / West Hampstead / Kilburn	51.541870000000074	-0.1979499999999348
+67	London	Camden	Kentish Town / Gospel Oak	51.55570000000006	-0.13925999999997885
+68	London	Barnet	Hendon / Burroughs, The	51.58912000000004	-0.2280999999999267
+69	London	Camden	Belsize Park / Hampstead / Swiss Cottage / Frognal	51.555060000000026	-0.1734799999999268
+70	London	Barnet, Brent, Camden / Barnet / Brent	Cricklewood / Childs Hill / Brent Cross / Dollis Hill / Neasden	51.562370000000044	-0.22130999999995993
+71	London	Barnet	Golders Green	51.576730000000055	-0.19694999999995844
+72	London	Brent / Brent, Ealing / Hammersmith and Fulham	Harlesden / Stonebridge / Willesden / Brent Park / Church End / Kensal Green / Park Royal / Old Oak Common	51.53916000000004	-0.2512299999999641
+73	London	Camden	Somerstown / Camden Town / Chalk Farm / Primrose Hill	51.53354000000007	-0.1460599999999772
+74	London	Enfield	Edmonton	51.62879000000004	-0.05619999999993297
+75	London	Haringey	Crouch End / Turnpike Lane / Hornsey	51.58170000000007	-0.12092999999993026
+76	London	Islington / Islington, Camden	Holloway / Nag's Head / Tufnell Park	51.55457000000007	-0.11477999999993926
+77	London	Camden	Highgate	51.57145000000003	-0.14982999999995172
+78	London	Islington	Highbury	51.553180000000054	-0.09838999999993803
+79	London	Haringey / Haringey, Islington / Hackney	Harringay / Stroud Green / Finsbury Park / Manor House	51.56878000000006	-0.09846999999996342
+80	London	Barnet	Church End	51.60104000000007	-0.19400999999993473
+81	London	Haringey	Wood Green / Bowes Park	51.60214000000008	-0.11222999999995409
+82	London	Enfield	Grange Park / Winchmore Hill	51.63519000000008	-0.09302999999994199
+83	London	Barnet	Totteridge / Oakleigh Park / Whetstone	51.63261000000006	-0.17561999999992395
+84	London	Barnet	Hampstead Garden Suburb / Finchley / East Finchley	51.589270000000056	-0.16394999999994297
+85	London	Islington	Archway / Upper Holloway	51.56393000000003	-0.12944999999996298
+86	London	Hackney	Stoke Newington / West Hackney	51.56350000000003	-0.07312999999993508
+87	London	Haringey / Hackney	Tottenham Green / Tottenham Hale / Tottenham / Seven Sisters / West Green / South Tottenham / Stamford Hill	51.58151000000004	-0.07589999999993324
+88	London	Enfield / Barnet	Southgate / Osidge	51.63429000000008	-0.13365999999996347
+89	London	Enfield	Palmers Green	51.62003000000004	-0.10659999999995762
+90	London	Barnet	Woodside Park / North Finchley	51.615920000000074	-0.1767399999999384
+91	London	Haringey / Barnet / Enfield	Bounds Green / Colney Hatch / New Southgate / Brunswick Park / Friern Barnet / Arnos Grove	51.616310000000055	-0.1383899999999585
+92	London	Haringey / Haringey and Barnet	Fortis Green / Muswell Hill	51.59107000000006	-0.14851999999996224
+93	London	Islington / Hackney	Barnsbury / Islington / Pentonville / Canonbury / De Beauvoir Town / Shoreditch / Hoxton	51.52969000000007	-0.08696999999995114
+94	London	Redbridge / Redbridge, Waltham Forest	Woodford / Woodford Green	51.50642000000005	-0.1272099999999341
+95	London	Brent, Harrow / Harrow, Brent	Kenton / Queensbury	51.50642000000005	-0.1272099999999341
+96	London	Barnet	Arkley	51.64441500000004	-0.17918542799992565
+97	London	City / City, Westminster	Blackfriars / Temple	51.51389000000006	-0.10433999999997923
+98	London	Tower Hamlets / City	Tower Hill / Aldgate	51.51200000000006	-0.08057999999994081
+99	London	Islington / Islington & City / City	Finsbury / St Luke's / Angel / Clerkenwell / Farringdon / Barbican	51.523610000000076	-0.09876999999994496
+100	London	Hackney	South Hackney / Hackney Marshes / Hackney Wick / Homerton	51.53777000000008	-0.04479999999995243
+101	London	Hackney	Dalston / Hackney Central / Shacklewell	51.54505000000006	-0.05531999999993786
+102	London	Newham	Forest Gate	51.54668000000004	0.025580000000047676
+103	London	Newham	East Ham / Beckton / Upton Park	51.53292000000005	0.05461000000002514
+104	London	Hackney	Upper Clapton / Hackney / Lower Clapton	51.558970000000045	-0.05322999999992817
+105	London	Waltham Forest	Highams Park / Chingford	51.617800000000045	-0.009339999999951942
+106	London	Tower Hamlets	Old Ford / Bromley (also Bromley-by-Bow) / Bow	51.52702000000005	-0.02593999999993457
+107	London	Hackney / Tower Hamlets	Haggerston / Bethnal Green / Cambridge Heath	51.52669000000003	-0.06256999999993695
+108	London	Redbridge	South Woodford	51.589770000000044	0.030520000000024083
+109	London	Waltham Forest	Upper Walthamstow / Walthamstow Village / Walthamstow	51.58477000000005	-0.019429999999942993
+110	London	Newham	Canning Town / Custom House / Silvertown / North Woolwich	51.50913000000003	0.015280000000075233
+111	London	Newham	Stratford / Maryland	51.540140000000065	0.0027800000000297587
+112	London	Tower Hamlets	Cubitt Town / Blackwall / Millwall / Limehouse / Isle of Dogs / Leamouth / Poplar / Canary Wharf	51.51122000000004	-0.012639999999976226
+113	London	Newham	West Ham / Plaistow	51.52653000000004	0.02876000000003387
+114	London	Newham	Manor Park / Little Ilford	51.552410000000066	0.05258000000003449
+115	London	Redbridge / Waltham Forest / Redbridge, Waltham Forest	Wanstead / Leytonstone / Cann Hall / Snaresbrook	51.576760000000036	0.027230000000031396
+116	London	Waltham Forest / Hackney	Leyton / Lea Bridge	51.558850000000064	-0.00732999999996764
+117	London	Tower Hamlets	Spitalfields / Mile End / Whitechapel / Shadwell / Ratcliff / Stepney / Wapping	51.52022000000005	-0.054309999999929914
+118	London	Bexley	Bexleyheath (also Bexley New Town)	51.50642000000005	-0.1272099999999341
+119	London	Dartford	Dartford	51.50642000000005	-0.1272099999999341
+120	London	Bromley	Beckenham	51.415095000000065	-0.035402759999954014
+121	London	City, Westminster / Camden	Temple / Holborn	51.51651000000004	-0.11967999999995982
+122	London	Ealing, Hammersmith and Fulham	Acton	51.48944000000006	-0.26193999999992457
+123	London	Westminster	Little Venice	51.51494000000008	-0.1804799999999318
+124	London	Kensington and Chelsea	Holland Park	51.49568000000005	-0.2099299999999289
+125	London	Ealing	Ealing	51.514530000000036	-0.31950999999997975
+126	London	Kensington and Chelsea	Holland Park / North Kensington	51.512440000000026	-0.20638999999994212
+127	London	Lambeth	Brixton / Stockwell / Oval	51.47001000000006	-0.11248999999997977
+128	London	Kensington and Chelsea	South Kensington	51.49004000000008	-0.1897099999999341
+129	London	Kensington and Chelsea	South Kensington	51.49014000000005	-0.16247999999995955
+130	London	Merton	Wimbledon	51.41117000000003	-0.22622999999993
+131	London	Wandsworth	Southfields	51.421700000000044	-0.2079599999999573
+132	London	Kensington and Chelsea	Earls Court	51.48563000000007	-0.1814399999999523
+133	London	Lambeth	Brixton	51.47480000000007	-0.09312999999997373
+134	London	Lambeth	Gipsy Hill / Tulse Hill	51.43407000000008	-0.10374999999993406
+135	London	Bromley / Lewisham, Southwark	Crystal Palace / Sydenham Hill	51.42674000000005	-0.05532999999996946
+136	London	Bromley	Beckenham / Crystal Palace	51.41009000000008	-0.05682999999993399
+137	London	Bexley / Bexley, Greenwich	Bexleyheath (also Bexley New Town) / Thamesmead	51.492450000000076	0.12127000000003818
+138	London	Southwark	Newington / Elephant and Castle	51.487640000000056	-0.09541999999993322
+139	London	Lewisham	Ladywell	51.46196000000003	-0.007539999999949032
+140	London	Greenwich	Blackheath Royal Standard	51.44759000000005	0.013500000000021828
+141	London	Lambeth / Southwark	Oval / Elephant and Castle	51.49084000000005	-0.11107999999995855
+142	London	Camden	Primrose Hill	51.53398000000004	-0.17377999999996518
+143	London	Barnet	Arkley	51.615680000000054	-0.2451099999999542
+144	London	Brent	Kensal Green	51.541870000000074	-0.1979499999999348
+145	London	Barnet	Brent Cross	51.58912000000004	-0.2280999999999267
+146	London	Camden	Gospel Oak / Primrose Hill	51.555060000000026	-0.1734799999999268
+147	London	Brent	Neasden	51.53916000000004	-0.2512299999999641
+148	London	Haringey	Harringay	51.58170000000007	-0.12092999999993026
+149	London	Barnet	Finchley	51.60104000000007	-0.19400999999993473
+150	London	Haringey	Bounds Green	51.60214000000008	-0.11222999999995409
+151	London	Islington, Camden	Tufnell Park	51.56393000000003	-0.12944999999996298
+152	London	Enfield	Edmonton	51.613740000000064	-0.0645999999999276
+153	London	Haringey	South Tottenham / Tottenham / Tottenham Hale	51.59835000000004	-0.07486999999997579
+154	London	Hackney	Hackney / Stamford Hill / Shacklewell	51.56350000000003	-0.07312999999993508
+155	London	Haringey	Harringay	51.58151000000004	-0.07589999999993324
+156	London	Enfield	Arnos Grove	51.63429000000008	-0.13365999999996347
+157	London	Barnet	Finchley	51.615920000000074	-0.1767399999999384
+158	London	Barnet	Colney Hatch	51.59107000000006	-0.14851999999996224
+159	London	Islington / Hackney	Angel / Hackney	51.52969000000007	-0.08696999999995114
+160	London	Newham	Beckton	51.53312000000005	0.08407653200004006
+161	London	Harrow, Brent	Queensbury	51.604025000000036	-0.2626288639999643
+162	London	Harrow, Brent	Queensbury	51.50642000000005	-0.1272099999999341
+163	London	Barnet	Barnet Gate	51.64441500000004	-0.17918542799992565
+164	London	Hackney	Hackney	51.53777000000008	-0.04479999999995243
+165	London	Hackney	Hackney	51.54505000000006	-0.05531999999993786
+166	London	Redbridge	Woodford	51.589770000000044	0.030520000000024083
+167	London	Newham	Beckton	51.50913000000003	0.015280000000075233
+168	London	Waltham Forest / Newham	Leyton / West Ham	51.540140000000065	0.0027800000000297587
+169	London	Newham	Upton Park	51.52653000000004	0.02876000000003387
+170	London	Bexley	Bexleyheath (also Bexley New Town)	51.47052000000008	0.14670637700004363
+171	London	Bexley, Greenwich	Thamesmead	51.498845000000074	0.1466047580000236
+172	London	Bexley, Greenwich	Falconwood	51.45907500000004	0.0991206960000568
+173	London	Bexley	Longlands	51.50642000000005	-0.1272099999999341
+174	London	Bexley	Longlands	51.452067760578885	0.1722299153689439
